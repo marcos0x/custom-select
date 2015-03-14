@@ -1,5 +1,5 @@
 # Custom Select
-Replace ```<select>``` with a ```<div>``` with a list of options (```<ul>```) preserving the same functionality of ```<select>```.
+jQuery plugin for styling select elements
 
 ## Usage
 
